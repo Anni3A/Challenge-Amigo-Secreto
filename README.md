@@ -1,6 +1,6 @@
 <h1>Amigo Secreto</h1>
 
-<p> Este es un pequeño proyecto en JavaScript, HTML y CSS que permite a los usuarios agregar nombres de amigos y realizar un sorteo aleatorio para el juego de "Amigo Secreto"</p>
+<p> Este es un proyecto sencillo desarrollado con JavaScript, HTML y CSS que permite a los usuarios ingresar nombres de amigos y realizar un sorteo aleatorio para el juego de 'Amigo Secreto' de manera rápida y divertida.</p>
 
 <h2>Características</h2>
 
@@ -17,4 +17,4 @@
 
 <h2>Autor</h2>
 
-<p>Desarrollado por Emanuel Ledesma Camacho.</p>
+<p>Creada por Avendaño Alviso Anahi</p>
