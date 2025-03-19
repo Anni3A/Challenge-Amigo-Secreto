@@ -5,10 +5,10 @@
 <h2>Características</h2>
 
 <ul>
-<li>Permite agregar nombres a una lista.</li>
+<li>Agrega nombres a una lista de participantes.</li>
 <li>Evita nombres duplicados.</li>
-<li>Realiza un sorteo aleatorio entre los nombres agregados.</li>
-<li>Muestra el nombre seleccionado como resultado del sorteo.</li>
+<li>Realiza un sorteo aleatorio de forma justa.</li>
+<li>Muestra el resultado del sorteo de manera clara.</li>
 </ul>
 
 <h2>Requisitos</h2>
